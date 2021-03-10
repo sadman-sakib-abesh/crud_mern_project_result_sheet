@@ -4,18 +4,12 @@
 
 install nodejs
 install react
-
-```bash
-$ npm install mongodb
-$ npm install cors
-$ npm install express
-$ npm install body-parser
-```
-
 then clone this project
 
 ```bash
 $ git clone https://github.com/sadman-sakib-abesh/crud_mern_project_result_sheet.git && cd crud_mern_project_result_sheet
+$ npm i
+
 ```
 
 configure the index.js and create.js then run
@@ -31,7 +25,11 @@ then run
 ```bash
 $ npm start
 ```
-
 in the directory and in ui directoey to start front end
 
+```bash
+$ cd ui
+$ npm i
+$ npm start
+```
 
